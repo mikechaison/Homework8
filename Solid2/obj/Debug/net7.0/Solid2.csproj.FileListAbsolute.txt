@@ -1,0 +1,14 @@
+D:\Бурсітєт\2_course\ООП\Homework8\Solid2\obj\Debug\net7.0\Solid2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Бурсітєт\2_course\ООП\Homework8\Solid2\obj\Debug\net7.0\Solid2.AssemblyInfoInputs.cache
+D:\Бурсітєт\2_course\ООП\Homework8\Solid2\obj\Debug\net7.0\Solid2.AssemblyInfo.cs
+D:\Бурсітєт\2_course\ООП\Homework8\Solid2\obj\Debug\net7.0\Solid2.csproj.CoreCompileInputs.cache
+D:\Бурсітєт\2_course\ООП\Homework8\Solid2\bin\Debug\net7.0\Solid2.exe
+D:\Бурсітєт\2_course\ООП\Homework8\Solid2\bin\Debug\net7.0\Solid2.deps.json
+D:\Бурсітєт\2_course\ООП\Homework8\Solid2\bin\Debug\net7.0\Solid2.runtimeconfig.json
+D:\Бурсітєт\2_course\ООП\Homework8\Solid2\bin\Debug\net7.0\Solid2.dll
+D:\Бурсітєт\2_course\ООП\Homework8\Solid2\bin\Debug\net7.0\Solid2.pdb
+D:\Бурсітєт\2_course\ООП\Homework8\Solid2\obj\Debug\net7.0\Solid2.dll
+D:\Бурсітєт\2_course\ООП\Homework8\Solid2\obj\Debug\net7.0\refint\Solid2.dll
+D:\Бурсітєт\2_course\ООП\Homework8\Solid2\obj\Debug\net7.0\Solid2.pdb
+D:\Бурсітєт\2_course\ООП\Homework8\Solid2\obj\Debug\net7.0\Solid2.genruntimeconfig.cache
+D:\Бурсітєт\2_course\ООП\Homework8\Solid2\obj\Debug\net7.0\ref\Solid2.dll
